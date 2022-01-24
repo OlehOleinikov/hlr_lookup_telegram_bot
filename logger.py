@@ -40,7 +40,8 @@ logger.add("hlr_responses.log",
 logger.add("hlr_debug.log",
            rotation='1Mb',
            format="{time:DD.MM.YYYY}\t{time:HH:mm:ss}\t{level} (from {module}): {message}",
-           level="DEBUG")
+           level="DEBUG",
+           encoding='UTF-8')
 
 """
 Console print rules
