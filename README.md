@@ -1,10 +1,10 @@
 # HLR-lookup TelegramBot with BSG World API
 
-[![Generic badge](https://img.shields.io/badge/Telegram-pyTelegramBotAPI-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_bot#used-api)
-[![Generic badge](https://img.shields.io/badge/logging-loguru-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_bot#logging)
-[![Generic badge](https://img.shields.io/badge/HLR-BSG.World_REST_API-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_bot#used-api)
-[![Generic badge](https://img.shields.io/badge/access_control-SQLite3-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_bot#users-access)
-[![Generic badge](https://img.shields.io/badge/token_storage-sys.environ-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_bot#environment-variables)
+[![Generic badge](https://img.shields.io/badge/Telegram-pyTelegramBotAPI-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_telegram_bot#used-api)
+[![Generic badge](https://img.shields.io/badge/logging-loguru-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_telegram_bot#logging)
+[![Generic badge](https://img.shields.io/badge/HLR-BSG.World_REST_API-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_telegram_bot#used-api)
+[![Generic badge](https://img.shields.io/badge/access_control-SQLite3-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_telegram_bot#users-access)
+[![Generic badge](https://img.shields.io/badge/token_storage-sys.environ-COLOR.svg)](https://github.com/OlehOleinikov/hlr_lookup_telegram_bot#environment-variables)
 
 ## App description
 
